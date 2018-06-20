@@ -4,9 +4,10 @@
 ### 2. Install gulp in your project devDependencies:
 ```$ npm install --save-dev gulp```
 ### 3. Create a gulpfile.js at the root of your project:
-```var gulp = require('gulp');
+``` var gulp = require('gulp'); ```
 
-gulp.task('default', function() {
-  // place code for your default task here
-});```
+``` gulp.task('default', function() { ```
+```  // place code for your default task here ```
+``` }); ```
+
 ### 4. Run gulp:
